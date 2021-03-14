@@ -1,3 +1,3 @@
 # Мои домашки
-[Сайт №1](NameRep.Github.io/Site1 "Мой первый сайт!")
+[Сайт №1](https://HealerUseTree.github.io "Прищепа Андрій")
 
