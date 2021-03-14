@@ -1,3 +1,3 @@
-# Мои домашки
-[Сайт №1](https://HealerUseTree.github.io "Прищепа Андрій")
+# Сайти групи ВБУ011
+[Прищепа Андрій](https://HealerUseTree.github.io "Прищепа Андрій")
 
